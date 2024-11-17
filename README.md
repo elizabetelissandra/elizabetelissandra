@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋! My name is Elizabete Lissandra and I'm a Full-Stack Developer in development from Brazil.</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elizabetelissandra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=elizabetelissandra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -45,5 +41,13 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elizabetelissandra.elizabetelissandra&"  />
 </div>
+
+###
+
+<h2 align="left">Olá! Eu sou a Elizabete Lissandra 👋</h2>
+
+###
+
+<p align="left">🌟 Sobre Mim<br>Sou uma desenvolvedora em crescimento, apaixonada por tecnologia e inovação. Meu objetivo é me tornar uma Desenvolvedora de Sistemas Sênior, contribuindo com soluções que impactem positivamente empresas e pessoas. Adoro explorar novas linguagens, frameworks e desafios no desenvolvimento de sistemas eficientes.<br><br>🎯 Objetivos<br><br>- Morar em Recife 🌴<br>- Ser fluente em inglês e outra língua 🌍<br>- Viajar e conhecer países incríveis como EUA, Coreia e Japão ✈️<br>- Ajudar empresas a melhorar o controle financeiro com sistemas personalizados 💼<br><br>💻 Habilidades<br><br>- Front-end: React, Styled-Components<br>- Back-end: NestJS, NodeJs, MongoDB, Express<br>- Banco de Dados: SQL<br>- Outras: Swagger, Context API<br><br>📚 Projetos em Destaque<br><br>- Dashboard de Produtos e Clientes: Uma aplicação interativa para gestão de dados.<br>- Organização de Recintos no Zoológico: Algoritmo que resolve alocação de animais com regras complexas.<br>- API com Swagger: Documentação e desenvolvimento de APIs usando NestJS.<br><br>✨ O que estou aprendendo atualmente<br><br>- Gamificação de sistemas<br>- Estratégias de gerenciamento de estado no React<br>- Criação de APIs RESTful com NestJS<br><br>🌈 Curiosidades<br><br>Meu próximo desafio é criar um projeto que gamifique uma empresa!<br>Adoro livros e tenho uma coleção em sorteio para saber o próximo que irei ler! 📖✨</p>
 
 ###
